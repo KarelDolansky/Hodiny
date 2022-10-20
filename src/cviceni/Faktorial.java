@@ -2,9 +2,7 @@ package cviceni;
 
 import java.util.Scanner;
 
-
 public class Faktorial {
-
 
     static Scanner sc = new Scanner(System.in);
 
