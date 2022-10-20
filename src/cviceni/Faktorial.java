@@ -8,8 +8,8 @@ public class Faktorial {
 
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.print("Cislo: ");
-        int n = sc.nextInt();
+        System.out.print("Zadej cele cislo");
+        long n = sc.nextLong();
         long fak = 1;
         while (n > 1) {
             fak = fak * n;
